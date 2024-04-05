@@ -1,0 +1,29 @@
+/* App.css */
+
+.employee-list {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.employee-list h1 {
+  margin-bottom: 10px;
+}
+
+.employee-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.employee-list ul li {
+  margin-bottom: 5px;
+}
+
+.employee-list ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.employee-list ul li a:hover {
+  color: #007bff;
+}
